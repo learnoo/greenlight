@@ -1,6 +1,6 @@
 # learnoo.live
 
-learnoo.live is a simple front-end interface for your BigBlueButton server. At it's heart, learnoo.live provides a minimalistic web-based application that allows users to:
+learnoo.live is a simple web-conference application interface for learnoo.net. At it's heart, learnoo.live provides a minimalistic web-based application that allows users to:
 
   * Signup/Login with Google, Office365, or through the application itself.
   * Manage your account settings and user preferences.
